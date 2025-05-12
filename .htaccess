@@ -1,0 +1,4 @@
+Options All -Indexes
+ErrorDocument 404 /Mega/entrada/error_noexiste.php
+ErrorDocument 403 /Mega/entrada/error_acceso.php
+
